@@ -1,5 +1,6 @@
-require_relative '../classes/solver'
+# frozen_string_literal: true
 
+require_relative '../classes/solver'
 
 describe Solver do
   context 'When testing the Solver class' do

@@ -1,5 +1,6 @@
-# the solver class
+# frozen_string_literal: true
 
+# the solver class
 class Solver
   def fizz_buzz(num)
     if (num % 3).zero? && (num % 5).zero?
@@ -13,20 +14,16 @@ class Solver
     end
   end
 
-  def factorial(n) 
+  def factorial(int)
     result = 1
-   if n == 0
+    result if int.zero?
+
+    raise 'integer must be positive' if int.negative?
+
+    while int.positive?
+      result *= int
+      int -= 1
+    end
     result
-   end
-
-   if n < 0
-    raise "integer must be positive"
-   end
-
-   while n > 0
-    result *= n
-    n -= 1
-   end
-   result
   end
 end
