@@ -15,6 +15,7 @@ class Solver
 
   def reverse(string)
     return 'Error' if string.class != String
+
     string.reverse
   end
 

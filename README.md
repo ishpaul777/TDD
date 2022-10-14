@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
+ TDD
 
 > Description the project.
+In this project we implemented a class with some methods, and tested using test-driven development (TDD). 
 
 
 ## Built With
@@ -13,44 +13,26 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishpaul Singh**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github - [@ishpaul777](https://github.com/ishpaul777)
+- Twitter - [@ishpaul777](https://twitter.com/ishpaul777)
+- Linkedin - [Ishpaul Singh](https://www.linkedin.com/in/ishpaul777/)
 
-👤 **Author2**
+ 👤 **Tarek Yosry**
+- GitHub: [@Tarek102](https://github.com/Tarek102)
+- LinkedIn: [Tarek Yosry](https://www.linkedin.com/in/tarek-yosry/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Onomeh Onwuanibe**
+
+- GitHub: [@githubhandle](https://github.com/Estherstarr/)
+- Twitter: [@twitterhandle](https://twitter.com/AnibeEsther)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
+
 
 ## 🤝 Contributing
 
@@ -72,4 +54,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
