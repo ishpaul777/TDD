@@ -14,9 +14,18 @@ class Solver
   end
 
   def reverse(string)
-    return 'Error' if string.class != String
+    return 'Error' unless string.is_a?(String)
 
-    string.reverse
+    s = 0
+    e = string.length - 1
+    while s < e
+      temp = string[s]
+      string[s] = string[e]
+      string[e] = temp
+      s += 1
+      e -= 1
+    end
+    string
   end
 
   def factorial(int)

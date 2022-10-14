@@ -1,9 +1,9 @@
 # Project Name
  TDD
 
-> Description the project.
-In this project we implemented a class with some methods, and tested using test-driven development (TDD). 
+# Test-driven development (TDD)
 
+> This is a program to solve three things. It gets the factorial of a number or returns a word in reverse, or returns fizz if a number is divisible by 3, buzz if divisible by 5, fizzbuzz if divisible by both.
 
 ## Built With
 
@@ -12,8 +12,16 @@ In this project we implemented a class with some methods, and tested using test-
 - Technologies used
 
 ## Live Demo (if available)
+- Ruby
+- Rspec
 
+## Getting Started
 
+- If you dont have Ruby installed on your computer, you can download it from here.
+- Clone the project in your machine
+- To Start the programs
+
+```ruby solver.rb```
 
 ## Authors
 
@@ -46,11 +54,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
+This project is [MIT](./MIT.md) licensed.
