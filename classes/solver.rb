@@ -13,6 +13,11 @@ class Solver
     end
   end
 
+  def reverse(string)
+    return 'Error' if string.class != String
+    string.reverse
+  end
+
   def factorial(int)
     result = 1
     result if int.zero?
