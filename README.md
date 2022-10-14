@@ -10,8 +10,6 @@
 - Ruby
 - Rspec
 
-
-
 ## Getting Started
 
 - If you dont have Ruby installed on your computer, you can download it from here.
