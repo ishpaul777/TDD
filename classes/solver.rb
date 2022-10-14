@@ -1,6 +1,5 @@
-# frozen_string_literal: true
-
 # the solver class
+
 class Solver
   def fizz_buzz(num)
     if (num % 3).zero? && (num % 5).zero?
